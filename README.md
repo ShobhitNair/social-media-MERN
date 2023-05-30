@@ -12,9 +12,9 @@ A Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MU
 
 
 ## Demo
-![image](![Capture1](https://github.com/ShobhitNair/social-media-MERN/assets/84396150/26f41667-7407-44e5-a055-81dd72f73b3e))
-![image](![Capture2](https://github.com/ShobhitNair/social-media-MERN/assets/84396150/2afc20dc-57ba-49a2-ac1f-e60aad60c00a))
-![image](![Capture3](https://github.com/ShobhitNair/social-media-MERN/assets/84396150/8d609a43-e342-4e48-b00b-c712b700bb79))
+![image](https://github.com/ShobhitNair/social-media-MERN/assets/84396150/26f41667-7407-44e5-a055-81dd72f73b3e)
+![image](https://github.com/ShobhitNair/social-media-MERN/assets/84396150/2afc20dc-57ba-49a2-ac1f-e60aad60c00a)
+![image](https://github.com/ShobhitNair/social-media-MERN/assets/84396150/8d609a43-e342-4e48-b00b-c712b700bb79)
 
 
 ## Run
